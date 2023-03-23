@@ -1,4 +1,4 @@
 <!--This is your header-->
 <header>
-	This is a header!
+	<h1>Welcome to my website</h1>
 </header>

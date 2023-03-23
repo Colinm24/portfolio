@@ -3,4 +3,12 @@ import Test from '$lib/components/test.svelte'
 </script>
 <Test/>
 
-<h1>This is my test page</h1>
+<head>
+	<title>My Website</title>
+</head>
+<body>
+<header>
+	<h1>Welcome to my website</h1>
+</header>
+
+</body>
