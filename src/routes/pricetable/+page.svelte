@@ -136,8 +136,8 @@
     }
     .button:hover,
     .button:focus {
-        color: #94debf;
-        box-shadow: inset 0 -44px #de1010;
+        color: #06ce21;
+        box-shadow: inset 0 -44px #ffffff;
     }
     .button:active {
         transform: scale(0.95455);
