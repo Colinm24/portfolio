@@ -1,4 +1,13 @@
+<script>
+	import HeroImageButton from '$lib/components/hero/HeroImageButton.svelte';
+</script>
+
 <!-- Global Container -->
+<HeroImageButton
+	title="A custom title"
+	subtitle="A custom subtitle"
+	buttonText="A custom button text"
+/>
 <div class="flex items-center justify-center min-h-screen
 bg-slate-800">
 	<!-- Inner Container -->
