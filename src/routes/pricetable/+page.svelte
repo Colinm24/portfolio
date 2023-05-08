@@ -4,9 +4,9 @@
 
 <!-- Global Container -->
 <HeroImageButton
-	title="A custom title"
-	subtitle="A custom subtitle"
-	buttonText="A custom button text"
+	title="Storage Prices"
+	subtitle="For your business"
+	buttonText="View Plans"
 />
 <div class="flex items-center justify-center min-h-screen
 bg-slate-800">

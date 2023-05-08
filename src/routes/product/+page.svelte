@@ -1,6 +1,15 @@
 <script>
 	import SubscribeImage from '$lib/assets/960x0.jpg';
+	import HeroImageButton from '$lib/components/hero/HeroImageButton.svelte';
 </script>
+
+<HeroImageButton
+	title = "Tech Tips"
+	subtitle = "To help your business grow"
+	buttonText = "Click here to start"
+	bgImage = "https://www.brookings.edu/wp-content/uploads/2017/11/metro_20171121_tech-empowers-tech-polarizes-mark-muro.jpg"
+/>
+
 <section class="flex items-center justify-center h-full p-10 bg-zinc-700">
 	<div class="bg-zinc-800 p-2 mx-6 rounded-2xl">
 		<div class="flex flex-col md:flex-row rounded-l-xl">
