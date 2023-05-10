@@ -1,6 +1,7 @@
 <script>
 
 import HeroImageButton from '$lib/components/hero/HeroImageButton.svelte';
+
 </script>
 
 
@@ -10,3 +11,4 @@ import HeroImageButton from '$lib/components/hero/HeroImageButton.svelte';
 	bgImage = "https://www.ceotodaymagazine.com/CEO-Today/wp-content/uploads/2018/04/Nitin-Kumar-The-CEO-Consultant-from-Silicon-Valley.jpg"
 
 	/>
+

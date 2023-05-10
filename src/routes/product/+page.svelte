@@ -1,6 +1,8 @@
 <script>
 	import SubscribeImage from '$lib/assets/960x0.jpg';
 	import HeroImageButton from '$lib/components/hero/HeroImageButton.svelte';
+	import TestimonialGrid
+		from '$lib/components/testimonial/TestimonialGrid.svelte';
 </script>
 
 <HeroImageButton
@@ -9,6 +11,8 @@
 	buttonText = "Click here to start"
 	bgImage = "https://www.brookings.edu/wp-content/uploads/2017/11/metro_20171121_tech-empowers-tech-polarizes-mark-muro.jpg"
 />
+
+<TestimonialGrid/>
 
 <section class="flex items-center justify-center h-full p-10 bg-zinc-700">
 	<div class="bg-zinc-800 p-2 mx-6 rounded-2xl">
