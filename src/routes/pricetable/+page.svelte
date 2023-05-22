@@ -8,6 +8,58 @@
 	subtitle="For your business"
 	buttonText="View Plans"
 />
+<style>
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .description {
+        font-family: Arial, sans-serif;
+        color: #333;
+        max-width: 600px;
+        text-align: center;
+    }
+
+    h2 {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+    h3 {
+        font-size: 18px;
+        margin-bottom: 8px;
+    }
+
+    p {
+        font-size: 16px;
+        line-height: 1.5;
+        margin-bottom: 15px;
+    }
+</style>
+
+<div class="description">
+	<h2>Efficient Data Storage Solutions</h2>
+	<p>At [Your Company Name], we understand the importance of efficient data storage for modern computer users. With the rapid advancement of technology and the ever-increasing size of files, having ample storage capacity has become essential. We offer cutting-edge storage solutions tailored to meet the diverse needs of individuals and businesses alike.</p>
+
+	<h3>Benefits of Our Storage Solutions</h3>
+	<p>Investing in our storage solutions brings a host of benefits. First and foremost, our high-capacity storage options allow you to store vast amounts of data, including documents, photos, videos, and applications, ensuring you never run out of space. Our products provide lightning-fast access and transfer speeds, enabling seamless multitasking, smooth media streaming, and quick file sharing.</p>
+
+	<h3>Prioritizing Data Security</h3>
+	<p>In addition to capacity and speed, our storage solutions prioritize data security. We employ advanced encryption and backup features to protect your valuable information from unauthorized access, hardware failures, or unforeseen events. With our reliable storage devices, you can confidently safeguard your sensitive files and important documents.</p>
+
+	<h3>Catering to Your Needs</h3>
+	<p>Whether you are a professional who relies on extensive data processing, a creative individual working with large multimedia files, or a casual user looking for a hassle-free storage experience, our products cater to your specific requirements. We offer a range of options, including solid-state drives (SSDs), hard disk drives (HDDs), and network-attached storage (NAS), to suit various budgets and usage scenarios.</p>
+
+	<h3>Exceptional Support and Peace of Mind</h3>
+	<p>By choosing [Your Company Name], you gain access to top-quality storage solutions backed by exceptional customer support. Our team of experts is ready to assist you in finding the ideal storage solution for your computer, ensuring optimal performance and peace of mind.</p>
+
+	<h3>Unlock the Full Potential of Your Computer</h3>
+	<p>Don't let limited storage capacity hold you back. Invest in our reliable and high-performance storage solutions to enhance your computing experience, streamline your workflow, and unlock the full potential of your computer.</p>
+</div>
+
 <div class="flex items-center justify-center min-h-screen
 bg-slate-800">
 	<!-- Inner Container -->
@@ -322,6 +374,4 @@ members</span>
 	</div>
 </div>
 
-<style>
 
-</style>
