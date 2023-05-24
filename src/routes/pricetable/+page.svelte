@@ -14,29 +14,40 @@
         justify-content: center;
         align-items: center;
         height: 100vh;
+        background-color: #333333;
+        font-family: Arial, sans-serif;
+        color: #333;
     }
 
     .description {
-        font-family: Arial, sans-serif;
-        color: #333;
-        max-width: 600px;
         text-align: center;
+        width: 80%;
+        max-width: 600px;
+        margin: auto;
+        padding: 20px;
+        box-sizing: border-box;
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     }
 
     h2 {
         font-size: 24px;
-        margin-bottom: 10px;
+        margin-bottom: 15px;
+        color: #333;
     }
 
     h3 {
         font-size: 18px;
         margin-bottom: 8px;
+        color: #333;
     }
 
     p {
         font-size: 16px;
         line-height: 1.5;
         margin-bottom: 15px;
+        color: #555;
     }
 </style>
 
@@ -72,11 +83,11 @@ md:space-x-6 md:flex-row md:my-0"
 			<!-- Upper Container -->
 			<div class="p-8 mx-3 mt-3 rounded-t-xl bg-slate-800">
 				<div class="text-center uppercase">Basic</div>
-				<h2 class="mt-10 font-serif text-5xl
+				<h1 class="mt-10 font-serif text-5xl
 
-text-center">100GB</h2>
+text-center">100GB</h1>
 
-				<h3 class="mt-2 text-center">$1.99/Month</h3>
+				<h1 class="mt-2 text-center">$1.99/Month</h1>
 				<div class="flex justify-center">
 					<a
 						href="#"
@@ -174,11 +185,11 @@ benefits</span>
 			<!-- Upper Container -->
 			<div class="p-8 mx-3 mt-3 rounded-t-xl bg-slate-800">
 				<div class="text-center uppercase">Standard</div>
-				<h2 class="mt-10 font-serif text-5xl
+				<h1 class="mt-10 font-serif text-5xl
 
-text-center">200GB</h2>
+text-center">200GB</h1>
 
-				<h3 class="mt-2 text-center">$3.99/Month</h3>
+				<h1 class="mt-2 text-center">$3.99/Month</h1>
 				<div class="flex justify-center">
 					<a
 						href="#"
@@ -276,11 +287,11 @@ benefits</span>
 			<!-- Upper Container -->
 			<div class="p-8 mx-3 mt-3 rounded-t-xl bg-slate-800">
 				<div class="text-center uppercase">Premium</div>
-				<h2 class="mt-10 font-serif text-5xl text-center">2
+				<h1 class="mt-10 font-serif text-5xl text-center">2
 
-																													TB</h2>
+																													TB</h1>
 
-				<h3 class="mt-2 text-center">$8.99/Month</h3>
+				<h1 class="mt-2 text-center">$8.99/Month</h1>
 				<div class="flex justify-center">
 					<a
 						href="#"
