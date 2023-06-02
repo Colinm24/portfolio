@@ -3,6 +3,7 @@
 	import HeroImageButton from '$lib/components/hero/HeroImageButton.svelte';
 	import TestimonialGrid
 		from '$lib/components/testimonial/TestimonialGrid.svelte';
+	import ProductGrid from '$lib/components/ProductGrid.svelte';
 </script>
 <HeroImageButton
 	title="Storage Prices"
@@ -103,6 +104,7 @@
           font-size: 36px;
           margin-bottom: 20px;
 					font-weight: bold;
+
       }
 
       .hero-description {
@@ -446,7 +448,7 @@ members</span>
 		</div>
 	</div>
 </div>
-
+<ProductGrid/>
 <TestimonialGrid/>
 
 <section class="flex items-center justify-center h-full p-10 bg-zinc-700">
