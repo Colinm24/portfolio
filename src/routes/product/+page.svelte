@@ -74,9 +74,8 @@
 	</div>
 </div>
 
-<PriceTable/>
+<PriceTable />
 <SingleTestimonial />
-
 
 <TestimonialGrid />
 
